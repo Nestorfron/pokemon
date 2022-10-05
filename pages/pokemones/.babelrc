@@ -1,0 +1,4 @@
+{
+    "presets": ["next/babel"],
+    "pugins": ["styled-components"]
+}
